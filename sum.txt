@@ -13,7 +13,7 @@ done > numbers_and_quality.txt
 /localdisk/data/BPSM/MyFirstPipeline/Tcongo_genome/TriTrypDB-46_TcongolenseIL3000_2019_Genome.fasta.gz > ~/ICA/tcongo_geno
 
 #build bt 
-#excuted bowtie2-build ~/ICA/tcongo_genome.fasta ~/ICA/tcongo_db
+bowtie2-build ~/ICA/tcongo_genome.fasta ~/ICA/tcongo_db
 
 mkdir -p ~/ICA/aligned_bam
 #alignment
@@ -23,8 +23,9 @@ do
     base=$(basename "$fq1" "_1.fq.gz")
     fq2="$HOME/ICA/fastq/${base}_2.fq.gz"
     echo "Processing alignment for: $base"
-#converting the output to indexed "bam" format
+#converting the output to indexed "bam" format and sort
     bowtie2 -x ~/ICA/tcongo_db -1 "$fq1" -2 "$fq2" | samtools view -bS - | samtools sort -o ~/ICA/aligned_bam/${base}_sorted.bam
+#build a index for .bam
     samtools index ~/ICA/aligned_bam/${base}_sorted.bam
 done
 
