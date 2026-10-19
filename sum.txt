@@ -1,0 +1,39 @@
+#quality check on gz.fq
+fastqc ~/ICA/fastq/*.fq.gz >> fq.output.txt
+
+#unzip and get number and quality of raw data
+for zip in ~/ICA/fastq/*_fastqc.zip
+do
+    echo "Results for: $(basename "$zip")"
+    unzip -p "$zip" "*/summary.txt"
+    unzip -p "$zip" "*/fastqc_data.txt" | grep "Total Sequences"
+done > numbers_and_quality.txt
+
+#copy and uncompress tcongo genome
+/localdisk/data/BPSM/MyFirstPipeline/Tcongo_genome/TriTrypDB-46_TcongolenseIL3000_2019_Genome.fasta.gz > ~/ICA/tcongo_geno
+
+#build bt 
+#excuted bowtie2-build ~/ICA/tcongo_genome.fasta ~/ICA/tcongo_db
+
+mkdir -p ~/ICA/aligned_bam
+#alignment
+for fq1 in $HOME/ICA/fastq/*_1.fq.gz
+do
+# Get the base name
+    base=$(basename "$fq1" "_1.fq.gz")
+    fq2="$HOME/ICA/fastq/${base}_2.fq.gz"
+    echo "Processing alignment for: $base"
+#converting the output to indexed "bam" format
+    bowtie2 -x ~/ICA/tcongo_db -1 "$fq1" -2 "$fq2" | samtools view -bS - | samtools sort -o ~/ICA/aligned_bam/${base}_sorted.bam
+    samtools index ~/ICA/aligned_bam/${base}_sorted.bam
+done
+
+# bedtools
+BEDFILE="$HOME/MyFirstPipeline/TriTrypDB-46_TcongolenseIL3000_2019.bed"
+bedtools multicov -bams ~/ICA/aligned_bam/*_sorted.bam -bed "$BEDFILE" > ~/ICA/counts/gene_counts.txt
+
+awk '{ sum=$6+$7+$8
+mean=sum/3
+print $4, $5, mean }' ~/ICA/counts/gene_counts.txt > ~/ICA/results/mean_expression_group.txt
+
+
