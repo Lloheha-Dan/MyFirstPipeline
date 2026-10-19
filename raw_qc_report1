@@ -1,0 +1,44 @@
+#!/bin/bash
+
+
+#assign where to get data from to a variable 
+raw_input_path="/localdisk/data/BPSM/MyFirstPipeline/fastq"
+
+
+
+ 
+#aassign where i want qc reports to go to a variable  
+qc_report_path="$(pwd)/qc_report"
+
+
+
+
+# tell bash what to do if there's a faliure to create the report 
+if !mkdir -p "${qc_report_path}"
+then 
+    echo" report creation failed"
+fi    
+
+
+
+
+#tell the programme where to start the count and then find FASTQ files
+file_count=0
+for file in "${qc_report_path}"/*.fq.gz
+#pass the reults to check if files are regular and exit script if not 
+do
+	if [! -f "${file}"]
+	then
+		echo "file faulty"
+		exit 1
+	fi
+	#check if files are gzip and exit if not
+	if !gzip -t "${file}"
+	then 
+		echo "not a gzip file"
+		exit 1
+	fi
+	#add 1 after each successful count and continue 	
+        file_count=$((${file_count} + 1))
+done
+echo "found ${file_count} gzip FASTQ files"
