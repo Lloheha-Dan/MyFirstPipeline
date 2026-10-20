@@ -24,7 +24,7 @@ do
     fq2="$HOME/ICA/fastq/${base}_2.fq.gz"
     echo "Processing alignment for: $base"
 #converting the output to indexed "bam" format and sort
-    bowtie2 -x ~/ICA/tcongo_db -1 "$fq1" -2 "$fq2" | samtools view -bS - | samtools sort -o ~/ICA/aligned_bam/${base}_sorted.bam
+    bowtie2 -x ~/ICA/tcongo_db -1 "$fq1" -2 "$fq2" | samtools view -bS - | samtools -o ~/ICA/aligned_bam/${base}_sorted.bam
 #build a index for .bam
     samtools index ~/ICA/aligned_bam/${base}_sorted.bam
 done
@@ -33,8 +33,10 @@ done
 BEDFILE="$HOME/MyFirstPipeline/TriTrypDB-46_TcongolenseIL3000_2019.bed"
 bedtools multicov -bams ~/ICA/aligned_bam/*_sorted.bam -bed "$BEDFILE" > ~/ICA/counts/gene_counts.txt
 
-awk '{ sum=$6+$7+$8
-mean=sum/3
-print $4, $5, mean }' ~/ICA/counts/gene_counts.txt > ~/ICA/results/mean_expression_group.txt
+#means and names
+#sort groups
+FQFILES="/localdisk/data/BPSM/MyFirstPipeline/fastq/Tco2.fqfiles"
+awk 'NR > 1 {print $2 "_" $4 "_" $5}' "$FQFILES" | sort | uniq 
 
-
+#count group mean
+#...💩
