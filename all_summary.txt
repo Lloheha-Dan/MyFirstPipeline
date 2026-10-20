@@ -1,0 +1,960 @@
+PASS	Basic Statistics	Tco-106_1.fq.gz
+PASS	Per base sequence quality	Tco-106_1.fq.gz
+PASS	Per sequence quality scores	Tco-106_1.fq.gz
+FAIL	Per base sequence content	Tco-106_1.fq.gz
+PASS	Per sequence GC content	Tco-106_1.fq.gz
+PASS	Per base N content	Tco-106_1.fq.gz
+PASS	Sequence Length Distribution	Tco-106_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-106_1.fq.gz
+WARN	Overrepresented sequences	Tco-106_1.fq.gz
+PASS	Adapter Content	Tco-106_1.fq.gz
+PASS	Basic Statistics	Tco-106_2.fq.gz
+PASS	Per base sequence quality	Tco-106_2.fq.gz
+PASS	Per sequence quality scores	Tco-106_2.fq.gz
+FAIL	Per base sequence content	Tco-106_2.fq.gz
+PASS	Per sequence GC content	Tco-106_2.fq.gz
+PASS	Per base N content	Tco-106_2.fq.gz
+PASS	Sequence Length Distribution	Tco-106_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-106_2.fq.gz
+WARN	Overrepresented sequences	Tco-106_2.fq.gz
+PASS	Adapter Content	Tco-106_2.fq.gz
+PASS	Basic Statistics	Tco-122_1.fq.gz
+PASS	Per base sequence quality	Tco-122_1.fq.gz
+PASS	Per sequence quality scores	Tco-122_1.fq.gz
+FAIL	Per base sequence content	Tco-122_1.fq.gz
+PASS	Per sequence GC content	Tco-122_1.fq.gz
+PASS	Per base N content	Tco-122_1.fq.gz
+PASS	Sequence Length Distribution	Tco-122_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-122_1.fq.gz
+PASS	Overrepresented sequences	Tco-122_1.fq.gz
+PASS	Adapter Content	Tco-122_1.fq.gz
+PASS	Basic Statistics	Tco-122_2.fq.gz
+PASS	Per base sequence quality	Tco-122_2.fq.gz
+PASS	Per sequence quality scores	Tco-122_2.fq.gz
+FAIL	Per base sequence content	Tco-122_2.fq.gz
+PASS	Per sequence GC content	Tco-122_2.fq.gz
+PASS	Per base N content	Tco-122_2.fq.gz
+PASS	Sequence Length Distribution	Tco-122_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-122_2.fq.gz
+PASS	Overrepresented sequences	Tco-122_2.fq.gz
+PASS	Adapter Content	Tco-122_2.fq.gz
+PASS	Basic Statistics	Tco-159_1.fq.gz
+PASS	Per base sequence quality	Tco-159_1.fq.gz
+PASS	Per sequence quality scores	Tco-159_1.fq.gz
+FAIL	Per base sequence content	Tco-159_1.fq.gz
+PASS	Per sequence GC content	Tco-159_1.fq.gz
+PASS	Per base N content	Tco-159_1.fq.gz
+PASS	Sequence Length Distribution	Tco-159_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-159_1.fq.gz
+PASS	Overrepresented sequences	Tco-159_1.fq.gz
+PASS	Adapter Content	Tco-159_1.fq.gz
+PASS	Basic Statistics	Tco-159_2.fq.gz
+PASS	Per base sequence quality	Tco-159_2.fq.gz
+PASS	Per sequence quality scores	Tco-159_2.fq.gz
+FAIL	Per base sequence content	Tco-159_2.fq.gz
+PASS	Per sequence GC content	Tco-159_2.fq.gz
+PASS	Per base N content	Tco-159_2.fq.gz
+PASS	Sequence Length Distribution	Tco-159_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-159_2.fq.gz
+PASS	Overrepresented sequences	Tco-159_2.fq.gz
+PASS	Adapter Content	Tco-159_2.fq.gz
+PASS	Basic Statistics	Tco-160_1.fq.gz
+PASS	Per base sequence quality	Tco-160_1.fq.gz
+PASS	Per sequence quality scores	Tco-160_1.fq.gz
+FAIL	Per base sequence content	Tco-160_1.fq.gz
+PASS	Per sequence GC content	Tco-160_1.fq.gz
+PASS	Per base N content	Tco-160_1.fq.gz
+PASS	Sequence Length Distribution	Tco-160_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-160_1.fq.gz
+PASS	Overrepresented sequences	Tco-160_1.fq.gz
+PASS	Adapter Content	Tco-160_1.fq.gz
+PASS	Basic Statistics	Tco-160_2.fq.gz
+PASS	Per base sequence quality	Tco-160_2.fq.gz
+PASS	Per sequence quality scores	Tco-160_2.fq.gz
+FAIL	Per base sequence content	Tco-160_2.fq.gz
+PASS	Per sequence GC content	Tco-160_2.fq.gz
+PASS	Per base N content	Tco-160_2.fq.gz
+PASS	Sequence Length Distribution	Tco-160_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-160_2.fq.gz
+PASS	Overrepresented sequences	Tco-160_2.fq.gz
+PASS	Adapter Content	Tco-160_2.fq.gz
+PASS	Basic Statistics	Tco-17_1.fq.gz
+PASS	Per base sequence quality	Tco-17_1.fq.gz
+PASS	Per sequence quality scores	Tco-17_1.fq.gz
+PASS	Per base sequence content	Tco-17_1.fq.gz
+WARN	Per sequence GC content	Tco-17_1.fq.gz
+PASS	Per base N content	Tco-17_1.fq.gz
+PASS	Sequence Length Distribution	Tco-17_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-17_1.fq.gz
+PASS	Overrepresented sequences	Tco-17_1.fq.gz
+PASS	Adapter Content	Tco-17_1.fq.gz
+PASS	Basic Statistics	Tco-17_2.fq.gz
+PASS	Per base sequence quality	Tco-17_2.fq.gz
+PASS	Per sequence quality scores	Tco-17_2.fq.gz
+PASS	Per base sequence content	Tco-17_2.fq.gz
+WARN	Per sequence GC content	Tco-17_2.fq.gz
+PASS	Per base N content	Tco-17_2.fq.gz
+PASS	Sequence Length Distribution	Tco-17_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-17_2.fq.gz
+PASS	Overrepresented sequences	Tco-17_2.fq.gz
+PASS	Adapter Content	Tco-17_2.fq.gz
+PASS	Basic Statistics	Tco-182_1.fq.gz
+PASS	Per base sequence quality	Tco-182_1.fq.gz
+PASS	Per sequence quality scores	Tco-182_1.fq.gz
+FAIL	Per base sequence content	Tco-182_1.fq.gz
+PASS	Per sequence GC content	Tco-182_1.fq.gz
+PASS	Per base N content	Tco-182_1.fq.gz
+PASS	Sequence Length Distribution	Tco-182_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-182_1.fq.gz
+PASS	Overrepresented sequences	Tco-182_1.fq.gz
+PASS	Adapter Content	Tco-182_1.fq.gz
+PASS	Basic Statistics	Tco-182_2.fq.gz
+PASS	Per base sequence quality	Tco-182_2.fq.gz
+PASS	Per sequence quality scores	Tco-182_2.fq.gz
+FAIL	Per base sequence content	Tco-182_2.fq.gz
+PASS	Per sequence GC content	Tco-182_2.fq.gz
+PASS	Per base N content	Tco-182_2.fq.gz
+PASS	Sequence Length Distribution	Tco-182_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-182_2.fq.gz
+PASS	Overrepresented sequences	Tco-182_2.fq.gz
+PASS	Adapter Content	Tco-182_2.fq.gz
+PASS	Basic Statistics	Tco-21_1.fq.gz
+PASS	Per base sequence quality	Tco-21_1.fq.gz
+PASS	Per sequence quality scores	Tco-21_1.fq.gz
+FAIL	Per base sequence content	Tco-21_1.fq.gz
+PASS	Per sequence GC content	Tco-21_1.fq.gz
+PASS	Per base N content	Tco-21_1.fq.gz
+PASS	Sequence Length Distribution	Tco-21_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-21_1.fq.gz
+WARN	Overrepresented sequences	Tco-21_1.fq.gz
+PASS	Adapter Content	Tco-21_1.fq.gz
+PASS	Basic Statistics	Tco-21_2.fq.gz
+PASS	Per base sequence quality	Tco-21_2.fq.gz
+PASS	Per sequence quality scores	Tco-21_2.fq.gz
+FAIL	Per base sequence content	Tco-21_2.fq.gz
+PASS	Per sequence GC content	Tco-21_2.fq.gz
+PASS	Per base N content	Tco-21_2.fq.gz
+PASS	Sequence Length Distribution	Tco-21_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-21_2.fq.gz
+WARN	Overrepresented sequences	Tco-21_2.fq.gz
+PASS	Adapter Content	Tco-21_2.fq.gz
+PASS	Basic Statistics	Tco-229_1.fq.gz
+PASS	Per base sequence quality	Tco-229_1.fq.gz
+PASS	Per sequence quality scores	Tco-229_1.fq.gz
+FAIL	Per base sequence content	Tco-229_1.fq.gz
+PASS	Per sequence GC content	Tco-229_1.fq.gz
+PASS	Per base N content	Tco-229_1.fq.gz
+PASS	Sequence Length Distribution	Tco-229_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-229_1.fq.gz
+PASS	Overrepresented sequences	Tco-229_1.fq.gz
+PASS	Adapter Content	Tco-229_1.fq.gz
+PASS	Basic Statistics	Tco-229_2.fq.gz
+PASS	Per base sequence quality	Tco-229_2.fq.gz
+PASS	Per sequence quality scores	Tco-229_2.fq.gz
+FAIL	Per base sequence content	Tco-229_2.fq.gz
+PASS	Per sequence GC content	Tco-229_2.fq.gz
+PASS	Per base N content	Tco-229_2.fq.gz
+PASS	Sequence Length Distribution	Tco-229_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-229_2.fq.gz
+PASS	Overrepresented sequences	Tco-229_2.fq.gz
+PASS	Adapter Content	Tco-229_2.fq.gz
+PASS	Basic Statistics	Tco-230_1.fq.gz
+PASS	Per base sequence quality	Tco-230_1.fq.gz
+PASS	Per sequence quality scores	Tco-230_1.fq.gz
+FAIL	Per base sequence content	Tco-230_1.fq.gz
+PASS	Per sequence GC content	Tco-230_1.fq.gz
+PASS	Per base N content	Tco-230_1.fq.gz
+PASS	Sequence Length Distribution	Tco-230_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-230_1.fq.gz
+WARN	Overrepresented sequences	Tco-230_1.fq.gz
+PASS	Adapter Content	Tco-230_1.fq.gz
+PASS	Basic Statistics	Tco-230_2.fq.gz
+PASS	Per base sequence quality	Tco-230_2.fq.gz
+PASS	Per sequence quality scores	Tco-230_2.fq.gz
+FAIL	Per base sequence content	Tco-230_2.fq.gz
+PASS	Per sequence GC content	Tco-230_2.fq.gz
+PASS	Per base N content	Tco-230_2.fq.gz
+PASS	Sequence Length Distribution	Tco-230_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-230_2.fq.gz
+WARN	Overrepresented sequences	Tco-230_2.fq.gz
+PASS	Adapter Content	Tco-230_2.fq.gz
+PASS	Basic Statistics	Tco-28_1.fq.gz
+PASS	Per base sequence quality	Tco-28_1.fq.gz
+PASS	Per sequence quality scores	Tco-28_1.fq.gz
+FAIL	Per base sequence content	Tco-28_1.fq.gz
+PASS	Per sequence GC content	Tco-28_1.fq.gz
+PASS	Per base N content	Tco-28_1.fq.gz
+PASS	Sequence Length Distribution	Tco-28_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-28_1.fq.gz
+PASS	Overrepresented sequences	Tco-28_1.fq.gz
+PASS	Adapter Content	Tco-28_1.fq.gz
+PASS	Basic Statistics	Tco-28_2.fq.gz
+PASS	Per base sequence quality	Tco-28_2.fq.gz
+PASS	Per sequence quality scores	Tco-28_2.fq.gz
+FAIL	Per base sequence content	Tco-28_2.fq.gz
+PASS	Per sequence GC content	Tco-28_2.fq.gz
+PASS	Per base N content	Tco-28_2.fq.gz
+PASS	Sequence Length Distribution	Tco-28_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-28_2.fq.gz
+PASS	Overrepresented sequences	Tco-28_2.fq.gz
+PASS	Adapter Content	Tco-28_2.fq.gz
+PASS	Basic Statistics	Tco-290_1.fq.gz
+PASS	Per base sequence quality	Tco-290_1.fq.gz
+PASS	Per sequence quality scores	Tco-290_1.fq.gz
+FAIL	Per base sequence content	Tco-290_1.fq.gz
+PASS	Per sequence GC content	Tco-290_1.fq.gz
+PASS	Per base N content	Tco-290_1.fq.gz
+PASS	Sequence Length Distribution	Tco-290_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-290_1.fq.gz
+PASS	Overrepresented sequences	Tco-290_1.fq.gz
+PASS	Adapter Content	Tco-290_1.fq.gz
+PASS	Basic Statistics	Tco-290_2.fq.gz
+PASS	Per base sequence quality	Tco-290_2.fq.gz
+PASS	Per sequence quality scores	Tco-290_2.fq.gz
+FAIL	Per base sequence content	Tco-290_2.fq.gz
+PASS	Per sequence GC content	Tco-290_2.fq.gz
+PASS	Per base N content	Tco-290_2.fq.gz
+PASS	Sequence Length Distribution	Tco-290_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-290_2.fq.gz
+WARN	Overrepresented sequences	Tco-290_2.fq.gz
+PASS	Adapter Content	Tco-290_2.fq.gz
+PASS	Basic Statistics	Tco-362_1.fq.gz
+PASS	Per base sequence quality	Tco-362_1.fq.gz
+PASS	Per sequence quality scores	Tco-362_1.fq.gz
+FAIL	Per base sequence content	Tco-362_1.fq.gz
+PASS	Per sequence GC content	Tco-362_1.fq.gz
+PASS	Per base N content	Tco-362_1.fq.gz
+PASS	Sequence Length Distribution	Tco-362_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-362_1.fq.gz
+PASS	Overrepresented sequences	Tco-362_1.fq.gz
+PASS	Adapter Content	Tco-362_1.fq.gz
+PASS	Basic Statistics	Tco-362_2.fq.gz
+PASS	Per base sequence quality	Tco-362_2.fq.gz
+PASS	Per sequence quality scores	Tco-362_2.fq.gz
+FAIL	Per base sequence content	Tco-362_2.fq.gz
+PASS	Per sequence GC content	Tco-362_2.fq.gz
+PASS	Per base N content	Tco-362_2.fq.gz
+PASS	Sequence Length Distribution	Tco-362_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-362_2.fq.gz
+WARN	Overrepresented sequences	Tco-362_2.fq.gz
+PASS	Adapter Content	Tco-362_2.fq.gz
+PASS	Basic Statistics	Tco-392_1.fq.gz
+PASS	Per base sequence quality	Tco-392_1.fq.gz
+PASS	Per sequence quality scores	Tco-392_1.fq.gz
+FAIL	Per base sequence content	Tco-392_1.fq.gz
+PASS	Per sequence GC content	Tco-392_1.fq.gz
+PASS	Per base N content	Tco-392_1.fq.gz
+PASS	Sequence Length Distribution	Tco-392_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-392_1.fq.gz
+PASS	Overrepresented sequences	Tco-392_1.fq.gz
+PASS	Adapter Content	Tco-392_1.fq.gz
+PASS	Basic Statistics	Tco-392_2.fq.gz
+PASS	Per base sequence quality	Tco-392_2.fq.gz
+PASS	Per sequence quality scores	Tco-392_2.fq.gz
+FAIL	Per base sequence content	Tco-392_2.fq.gz
+PASS	Per sequence GC content	Tco-392_2.fq.gz
+PASS	Per base N content	Tco-392_2.fq.gz
+PASS	Sequence Length Distribution	Tco-392_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-392_2.fq.gz
+PASS	Overrepresented sequences	Tco-392_2.fq.gz
+PASS	Adapter Content	Tco-392_2.fq.gz
+PASS	Basic Statistics	Tco-397_1.fq.gz
+PASS	Per base sequence quality	Tco-397_1.fq.gz
+PASS	Per sequence quality scores	Tco-397_1.fq.gz
+FAIL	Per base sequence content	Tco-397_1.fq.gz
+PASS	Per sequence GC content	Tco-397_1.fq.gz
+PASS	Per base N content	Tco-397_1.fq.gz
+PASS	Sequence Length Distribution	Tco-397_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-397_1.fq.gz
+WARN	Overrepresented sequences	Tco-397_1.fq.gz
+PASS	Adapter Content	Tco-397_1.fq.gz
+PASS	Basic Statistics	Tco-397_2.fq.gz
+PASS	Per base sequence quality	Tco-397_2.fq.gz
+PASS	Per sequence quality scores	Tco-397_2.fq.gz
+FAIL	Per base sequence content	Tco-397_2.fq.gz
+PASS	Per sequence GC content	Tco-397_2.fq.gz
+PASS	Per base N content	Tco-397_2.fq.gz
+PASS	Sequence Length Distribution	Tco-397_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-397_2.fq.gz
+WARN	Overrepresented sequences	Tco-397_2.fq.gz
+PASS	Adapter Content	Tco-397_2.fq.gz
+PASS	Basic Statistics	Tco-398_1.fq.gz
+PASS	Per base sequence quality	Tco-398_1.fq.gz
+PASS	Per sequence quality scores	Tco-398_1.fq.gz
+FAIL	Per base sequence content	Tco-398_1.fq.gz
+PASS	Per sequence GC content	Tco-398_1.fq.gz
+PASS	Per base N content	Tco-398_1.fq.gz
+PASS	Sequence Length Distribution	Tco-398_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-398_1.fq.gz
+PASS	Overrepresented sequences	Tco-398_1.fq.gz
+PASS	Adapter Content	Tco-398_1.fq.gz
+PASS	Basic Statistics	Tco-398_2.fq.gz
+PASS	Per base sequence quality	Tco-398_2.fq.gz
+PASS	Per sequence quality scores	Tco-398_2.fq.gz
+FAIL	Per base sequence content	Tco-398_2.fq.gz
+PASS	Per sequence GC content	Tco-398_2.fq.gz
+PASS	Per base N content	Tco-398_2.fq.gz
+PASS	Sequence Length Distribution	Tco-398_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-398_2.fq.gz
+PASS	Overrepresented sequences	Tco-398_2.fq.gz
+PASS	Adapter Content	Tco-398_2.fq.gz
+PASS	Basic Statistics	Tco-427_1.fq.gz
+PASS	Per base sequence quality	Tco-427_1.fq.gz
+PASS	Per sequence quality scores	Tco-427_1.fq.gz
+FAIL	Per base sequence content	Tco-427_1.fq.gz
+PASS	Per sequence GC content	Tco-427_1.fq.gz
+PASS	Per base N content	Tco-427_1.fq.gz
+PASS	Sequence Length Distribution	Tco-427_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-427_1.fq.gz
+PASS	Overrepresented sequences	Tco-427_1.fq.gz
+PASS	Adapter Content	Tco-427_1.fq.gz
+PASS	Basic Statistics	Tco-427_2.fq.gz
+PASS	Per base sequence quality	Tco-427_2.fq.gz
+PASS	Per sequence quality scores	Tco-427_2.fq.gz
+FAIL	Per base sequence content	Tco-427_2.fq.gz
+PASS	Per sequence GC content	Tco-427_2.fq.gz
+PASS	Per base N content	Tco-427_2.fq.gz
+PASS	Sequence Length Distribution	Tco-427_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-427_2.fq.gz
+WARN	Overrepresented sequences	Tco-427_2.fq.gz
+PASS	Adapter Content	Tco-427_2.fq.gz
+PASS	Basic Statistics	Tco-444_1.fq.gz
+PASS	Per base sequence quality	Tco-444_1.fq.gz
+PASS	Per sequence quality scores	Tco-444_1.fq.gz
+FAIL	Per base sequence content	Tco-444_1.fq.gz
+PASS	Per sequence GC content	Tco-444_1.fq.gz
+PASS	Per base N content	Tco-444_1.fq.gz
+PASS	Sequence Length Distribution	Tco-444_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-444_1.fq.gz
+PASS	Overrepresented sequences	Tco-444_1.fq.gz
+PASS	Adapter Content	Tco-444_1.fq.gz
+PASS	Basic Statistics	Tco-444_2.fq.gz
+PASS	Per base sequence quality	Tco-444_2.fq.gz
+PASS	Per sequence quality scores	Tco-444_2.fq.gz
+FAIL	Per base sequence content	Tco-444_2.fq.gz
+PASS	Per sequence GC content	Tco-444_2.fq.gz
+PASS	Per base N content	Tco-444_2.fq.gz
+PASS	Sequence Length Distribution	Tco-444_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-444_2.fq.gz
+PASS	Overrepresented sequences	Tco-444_2.fq.gz
+PASS	Adapter Content	Tco-444_2.fq.gz
+PASS	Basic Statistics	Tco-467_1.fq.gz
+PASS	Per base sequence quality	Tco-467_1.fq.gz
+PASS	Per sequence quality scores	Tco-467_1.fq.gz
+FAIL	Per base sequence content	Tco-467_1.fq.gz
+PASS	Per sequence GC content	Tco-467_1.fq.gz
+PASS	Per base N content	Tco-467_1.fq.gz
+PASS	Sequence Length Distribution	Tco-467_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-467_1.fq.gz
+PASS	Overrepresented sequences	Tco-467_1.fq.gz
+PASS	Adapter Content	Tco-467_1.fq.gz
+PASS	Basic Statistics	Tco-467_2.fq.gz
+PASS	Per base sequence quality	Tco-467_2.fq.gz
+PASS	Per sequence quality scores	Tco-467_2.fq.gz
+FAIL	Per base sequence content	Tco-467_2.fq.gz
+PASS	Per sequence GC content	Tco-467_2.fq.gz
+PASS	Per base N content	Tco-467_2.fq.gz
+PASS	Sequence Length Distribution	Tco-467_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-467_2.fq.gz
+PASS	Overrepresented sequences	Tco-467_2.fq.gz
+PASS	Adapter Content	Tco-467_2.fq.gz
+PASS	Basic Statistics	Tco-480_1.fq.gz
+PASS	Per base sequence quality	Tco-480_1.fq.gz
+PASS	Per sequence quality scores	Tco-480_1.fq.gz
+FAIL	Per base sequence content	Tco-480_1.fq.gz
+PASS	Per sequence GC content	Tco-480_1.fq.gz
+PASS	Per base N content	Tco-480_1.fq.gz
+PASS	Sequence Length Distribution	Tco-480_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-480_1.fq.gz
+PASS	Overrepresented sequences	Tco-480_1.fq.gz
+PASS	Adapter Content	Tco-480_1.fq.gz
+PASS	Basic Statistics	Tco-480_2.fq.gz
+PASS	Per base sequence quality	Tco-480_2.fq.gz
+PASS	Per sequence quality scores	Tco-480_2.fq.gz
+FAIL	Per base sequence content	Tco-480_2.fq.gz
+PASS	Per sequence GC content	Tco-480_2.fq.gz
+PASS	Per base N content	Tco-480_2.fq.gz
+PASS	Sequence Length Distribution	Tco-480_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-480_2.fq.gz
+PASS	Overrepresented sequences	Tco-480_2.fq.gz
+PASS	Adapter Content	Tco-480_2.fq.gz
+PASS	Basic Statistics	Tco-483_1.fq.gz
+PASS	Per base sequence quality	Tco-483_1.fq.gz
+PASS	Per sequence quality scores	Tco-483_1.fq.gz
+FAIL	Per base sequence content	Tco-483_1.fq.gz
+PASS	Per sequence GC content	Tco-483_1.fq.gz
+PASS	Per base N content	Tco-483_1.fq.gz
+PASS	Sequence Length Distribution	Tco-483_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-483_1.fq.gz
+PASS	Overrepresented sequences	Tco-483_1.fq.gz
+PASS	Adapter Content	Tco-483_1.fq.gz
+PASS	Basic Statistics	Tco-483_2.fq.gz
+PASS	Per base sequence quality	Tco-483_2.fq.gz
+PASS	Per sequence quality scores	Tco-483_2.fq.gz
+FAIL	Per base sequence content	Tco-483_2.fq.gz
+PASS	Per sequence GC content	Tco-483_2.fq.gz
+PASS	Per base N content	Tco-483_2.fq.gz
+PASS	Sequence Length Distribution	Tco-483_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-483_2.fq.gz
+PASS	Overrepresented sequences	Tco-483_2.fq.gz
+PASS	Adapter Content	Tco-483_2.fq.gz
+PASS	Basic Statistics	Tco-486_1.fq.gz
+PASS	Per base sequence quality	Tco-486_1.fq.gz
+PASS	Per sequence quality scores	Tco-486_1.fq.gz
+FAIL	Per base sequence content	Tco-486_1.fq.gz
+PASS	Per sequence GC content	Tco-486_1.fq.gz
+PASS	Per base N content	Tco-486_1.fq.gz
+PASS	Sequence Length Distribution	Tco-486_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-486_1.fq.gz
+PASS	Overrepresented sequences	Tco-486_1.fq.gz
+PASS	Adapter Content	Tco-486_1.fq.gz
+PASS	Basic Statistics	Tco-486_2.fq.gz
+PASS	Per base sequence quality	Tco-486_2.fq.gz
+PASS	Per sequence quality scores	Tco-486_2.fq.gz
+FAIL	Per base sequence content	Tco-486_2.fq.gz
+PASS	Per sequence GC content	Tco-486_2.fq.gz
+PASS	Per base N content	Tco-486_2.fq.gz
+PASS	Sequence Length Distribution	Tco-486_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-486_2.fq.gz
+PASS	Overrepresented sequences	Tco-486_2.fq.gz
+PASS	Adapter Content	Tco-486_2.fq.gz
+PASS	Basic Statistics	Tco-503_1.fq.gz
+PASS	Per base sequence quality	Tco-503_1.fq.gz
+PASS	Per sequence quality scores	Tco-503_1.fq.gz
+FAIL	Per base sequence content	Tco-503_1.fq.gz
+PASS	Per sequence GC content	Tco-503_1.fq.gz
+PASS	Per base N content	Tco-503_1.fq.gz
+PASS	Sequence Length Distribution	Tco-503_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-503_1.fq.gz
+PASS	Overrepresented sequences	Tco-503_1.fq.gz
+PASS	Adapter Content	Tco-503_1.fq.gz
+PASS	Basic Statistics	Tco-503_2.fq.gz
+PASS	Per base sequence quality	Tco-503_2.fq.gz
+PASS	Per sequence quality scores	Tco-503_2.fq.gz
+FAIL	Per base sequence content	Tco-503_2.fq.gz
+PASS	Per sequence GC content	Tco-503_2.fq.gz
+PASS	Per base N content	Tco-503_2.fq.gz
+PASS	Sequence Length Distribution	Tco-503_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-503_2.fq.gz
+PASS	Overrepresented sequences	Tco-503_2.fq.gz
+PASS	Adapter Content	Tco-503_2.fq.gz
+PASS	Basic Statistics	Tco-522_1.fq.gz
+PASS	Per base sequence quality	Tco-522_1.fq.gz
+PASS	Per sequence quality scores	Tco-522_1.fq.gz
+FAIL	Per base sequence content	Tco-522_1.fq.gz
+PASS	Per sequence GC content	Tco-522_1.fq.gz
+PASS	Per base N content	Tco-522_1.fq.gz
+PASS	Sequence Length Distribution	Tco-522_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-522_1.fq.gz
+WARN	Overrepresented sequences	Tco-522_1.fq.gz
+PASS	Adapter Content	Tco-522_1.fq.gz
+PASS	Basic Statistics	Tco-522_2.fq.gz
+PASS	Per base sequence quality	Tco-522_2.fq.gz
+PASS	Per sequence quality scores	Tco-522_2.fq.gz
+FAIL	Per base sequence content	Tco-522_2.fq.gz
+PASS	Per sequence GC content	Tco-522_2.fq.gz
+PASS	Per base N content	Tco-522_2.fq.gz
+PASS	Sequence Length Distribution	Tco-522_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-522_2.fq.gz
+WARN	Overrepresented sequences	Tco-522_2.fq.gz
+PASS	Adapter Content	Tco-522_2.fq.gz
+PASS	Basic Statistics	Tco-549_1.fq.gz
+PASS	Per base sequence quality	Tco-549_1.fq.gz
+PASS	Per sequence quality scores	Tco-549_1.fq.gz
+FAIL	Per base sequence content	Tco-549_1.fq.gz
+PASS	Per sequence GC content	Tco-549_1.fq.gz
+PASS	Per base N content	Tco-549_1.fq.gz
+PASS	Sequence Length Distribution	Tco-549_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-549_1.fq.gz
+PASS	Overrepresented sequences	Tco-549_1.fq.gz
+PASS	Adapter Content	Tco-549_1.fq.gz
+PASS	Basic Statistics	Tco-549_2.fq.gz
+PASS	Per base sequence quality	Tco-549_2.fq.gz
+PASS	Per sequence quality scores	Tco-549_2.fq.gz
+FAIL	Per base sequence content	Tco-549_2.fq.gz
+PASS	Per sequence GC content	Tco-549_2.fq.gz
+PASS	Per base N content	Tco-549_2.fq.gz
+PASS	Sequence Length Distribution	Tco-549_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-549_2.fq.gz
+PASS	Overrepresented sequences	Tco-549_2.fq.gz
+PASS	Adapter Content	Tco-549_2.fq.gz
+PASS	Basic Statistics	Tco-580_1.fq.gz
+PASS	Per base sequence quality	Tco-580_1.fq.gz
+PASS	Per sequence quality scores	Tco-580_1.fq.gz
+WARN	Per base sequence content	Tco-580_1.fq.gz
+PASS	Per sequence GC content	Tco-580_1.fq.gz
+PASS	Per base N content	Tco-580_1.fq.gz
+PASS	Sequence Length Distribution	Tco-580_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-580_1.fq.gz
+PASS	Overrepresented sequences	Tco-580_1.fq.gz
+PASS	Adapter Content	Tco-580_1.fq.gz
+PASS	Basic Statistics	Tco-580_2.fq.gz
+PASS	Per base sequence quality	Tco-580_2.fq.gz
+PASS	Per sequence quality scores	Tco-580_2.fq.gz
+WARN	Per base sequence content	Tco-580_2.fq.gz
+PASS	Per sequence GC content	Tco-580_2.fq.gz
+PASS	Per base N content	Tco-580_2.fq.gz
+PASS	Sequence Length Distribution	Tco-580_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-580_2.fq.gz
+PASS	Overrepresented sequences	Tco-580_2.fq.gz
+PASS	Adapter Content	Tco-580_2.fq.gz
+PASS	Basic Statistics	Tco-582_1.fq.gz
+PASS	Per base sequence quality	Tco-582_1.fq.gz
+PASS	Per sequence quality scores	Tco-582_1.fq.gz
+FAIL	Per base sequence content	Tco-582_1.fq.gz
+PASS	Per sequence GC content	Tco-582_1.fq.gz
+PASS	Per base N content	Tco-582_1.fq.gz
+PASS	Sequence Length Distribution	Tco-582_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-582_1.fq.gz
+PASS	Overrepresented sequences	Tco-582_1.fq.gz
+PASS	Adapter Content	Tco-582_1.fq.gz
+PASS	Basic Statistics	Tco-582_2.fq.gz
+PASS	Per base sequence quality	Tco-582_2.fq.gz
+PASS	Per sequence quality scores	Tco-582_2.fq.gz
+FAIL	Per base sequence content	Tco-582_2.fq.gz
+PASS	Per sequence GC content	Tco-582_2.fq.gz
+PASS	Per base N content	Tco-582_2.fq.gz
+PASS	Sequence Length Distribution	Tco-582_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-582_2.fq.gz
+PASS	Overrepresented sequences	Tco-582_2.fq.gz
+PASS	Adapter Content	Tco-582_2.fq.gz
+PASS	Basic Statistics	Tco-596_1.fq.gz
+PASS	Per base sequence quality	Tco-596_1.fq.gz
+PASS	Per sequence quality scores	Tco-596_1.fq.gz
+FAIL	Per base sequence content	Tco-596_1.fq.gz
+PASS	Per sequence GC content	Tco-596_1.fq.gz
+PASS	Per base N content	Tco-596_1.fq.gz
+PASS	Sequence Length Distribution	Tco-596_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-596_1.fq.gz
+PASS	Overrepresented sequences	Tco-596_1.fq.gz
+PASS	Adapter Content	Tco-596_1.fq.gz
+PASS	Basic Statistics	Tco-596_2.fq.gz
+PASS	Per base sequence quality	Tco-596_2.fq.gz
+PASS	Per sequence quality scores	Tco-596_2.fq.gz
+FAIL	Per base sequence content	Tco-596_2.fq.gz
+PASS	Per sequence GC content	Tco-596_2.fq.gz
+PASS	Per base N content	Tco-596_2.fq.gz
+PASS	Sequence Length Distribution	Tco-596_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-596_2.fq.gz
+WARN	Overrepresented sequences	Tco-596_2.fq.gz
+PASS	Adapter Content	Tco-596_2.fq.gz
+PASS	Basic Statistics	Tco-613_1.fq.gz
+PASS	Per base sequence quality	Tco-613_1.fq.gz
+PASS	Per sequence quality scores	Tco-613_1.fq.gz
+FAIL	Per base sequence content	Tco-613_1.fq.gz
+PASS	Per sequence GC content	Tco-613_1.fq.gz
+PASS	Per base N content	Tco-613_1.fq.gz
+PASS	Sequence Length Distribution	Tco-613_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-613_1.fq.gz
+WARN	Overrepresented sequences	Tco-613_1.fq.gz
+PASS	Adapter Content	Tco-613_1.fq.gz
+PASS	Basic Statistics	Tco-613_2.fq.gz
+PASS	Per base sequence quality	Tco-613_2.fq.gz
+PASS	Per sequence quality scores	Tco-613_2.fq.gz
+FAIL	Per base sequence content	Tco-613_2.fq.gz
+PASS	Per sequence GC content	Tco-613_2.fq.gz
+PASS	Per base N content	Tco-613_2.fq.gz
+PASS	Sequence Length Distribution	Tco-613_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-613_2.fq.gz
+PASS	Overrepresented sequences	Tco-613_2.fq.gz
+PASS	Adapter Content	Tco-613_2.fq.gz
+PASS	Basic Statistics	Tco-622_1.fq.gz
+PASS	Per base sequence quality	Tco-622_1.fq.gz
+PASS	Per sequence quality scores	Tco-622_1.fq.gz
+FAIL	Per base sequence content	Tco-622_1.fq.gz
+PASS	Per sequence GC content	Tco-622_1.fq.gz
+PASS	Per base N content	Tco-622_1.fq.gz
+PASS	Sequence Length Distribution	Tco-622_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-622_1.fq.gz
+PASS	Overrepresented sequences	Tco-622_1.fq.gz
+PASS	Adapter Content	Tco-622_1.fq.gz
+PASS	Basic Statistics	Tco-622_2.fq.gz
+PASS	Per base sequence quality	Tco-622_2.fq.gz
+PASS	Per sequence quality scores	Tco-622_2.fq.gz
+FAIL	Per base sequence content	Tco-622_2.fq.gz
+PASS	Per sequence GC content	Tco-622_2.fq.gz
+PASS	Per base N content	Tco-622_2.fq.gz
+PASS	Sequence Length Distribution	Tco-622_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-622_2.fq.gz
+PASS	Overrepresented sequences	Tco-622_2.fq.gz
+PASS	Adapter Content	Tco-622_2.fq.gz
+PASS	Basic Statistics	Tco-633_1.fq.gz
+PASS	Per base sequence quality	Tco-633_1.fq.gz
+PASS	Per sequence quality scores	Tco-633_1.fq.gz
+FAIL	Per base sequence content	Tco-633_1.fq.gz
+PASS	Per sequence GC content	Tco-633_1.fq.gz
+PASS	Per base N content	Tco-633_1.fq.gz
+PASS	Sequence Length Distribution	Tco-633_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-633_1.fq.gz
+PASS	Overrepresented sequences	Tco-633_1.fq.gz
+PASS	Adapter Content	Tco-633_1.fq.gz
+PASS	Basic Statistics	Tco-633_2.fq.gz
+PASS	Per base sequence quality	Tco-633_2.fq.gz
+PASS	Per sequence quality scores	Tco-633_2.fq.gz
+FAIL	Per base sequence content	Tco-633_2.fq.gz
+PASS	Per sequence GC content	Tco-633_2.fq.gz
+PASS	Per base N content	Tco-633_2.fq.gz
+PASS	Sequence Length Distribution	Tco-633_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-633_2.fq.gz
+PASS	Overrepresented sequences	Tco-633_2.fq.gz
+PASS	Adapter Content	Tco-633_2.fq.gz
+PASS	Basic Statistics	Tco-674_1.fq.gz
+PASS	Per base sequence quality	Tco-674_1.fq.gz
+PASS	Per sequence quality scores	Tco-674_1.fq.gz
+FAIL	Per base sequence content	Tco-674_1.fq.gz
+PASS	Per sequence GC content	Tco-674_1.fq.gz
+PASS	Per base N content	Tco-674_1.fq.gz
+PASS	Sequence Length Distribution	Tco-674_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-674_1.fq.gz
+WARN	Overrepresented sequences	Tco-674_1.fq.gz
+PASS	Adapter Content	Tco-674_1.fq.gz
+PASS	Basic Statistics	Tco-674_2.fq.gz
+PASS	Per base sequence quality	Tco-674_2.fq.gz
+PASS	Per sequence quality scores	Tco-674_2.fq.gz
+FAIL	Per base sequence content	Tco-674_2.fq.gz
+PASS	Per sequence GC content	Tco-674_2.fq.gz
+PASS	Per base N content	Tco-674_2.fq.gz
+PASS	Sequence Length Distribution	Tco-674_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-674_2.fq.gz
+WARN	Overrepresented sequences	Tco-674_2.fq.gz
+PASS	Adapter Content	Tco-674_2.fq.gz
+PASS	Basic Statistics	Tco-702_1.fq.gz
+PASS	Per base sequence quality	Tco-702_1.fq.gz
+PASS	Per sequence quality scores	Tco-702_1.fq.gz
+FAIL	Per base sequence content	Tco-702_1.fq.gz
+PASS	Per sequence GC content	Tco-702_1.fq.gz
+PASS	Per base N content	Tco-702_1.fq.gz
+PASS	Sequence Length Distribution	Tco-702_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-702_1.fq.gz
+PASS	Overrepresented sequences	Tco-702_1.fq.gz
+PASS	Adapter Content	Tco-702_1.fq.gz
+PASS	Basic Statistics	Tco-702_2.fq.gz
+PASS	Per base sequence quality	Tco-702_2.fq.gz
+PASS	Per sequence quality scores	Tco-702_2.fq.gz
+FAIL	Per base sequence content	Tco-702_2.fq.gz
+PASS	Per sequence GC content	Tco-702_2.fq.gz
+PASS	Per base N content	Tco-702_2.fq.gz
+PASS	Sequence Length Distribution	Tco-702_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-702_2.fq.gz
+PASS	Overrepresented sequences	Tco-702_2.fq.gz
+PASS	Adapter Content	Tco-702_2.fq.gz
+PASS	Basic Statistics	Tco-719_1.fq.gz
+PASS	Per base sequence quality	Tco-719_1.fq.gz
+PASS	Per sequence quality scores	Tco-719_1.fq.gz
+FAIL	Per base sequence content	Tco-719_1.fq.gz
+PASS	Per sequence GC content	Tco-719_1.fq.gz
+PASS	Per base N content	Tco-719_1.fq.gz
+PASS	Sequence Length Distribution	Tco-719_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-719_1.fq.gz
+WARN	Overrepresented sequences	Tco-719_1.fq.gz
+PASS	Adapter Content	Tco-719_1.fq.gz
+PASS	Basic Statistics	Tco-719_2.fq.gz
+PASS	Per base sequence quality	Tco-719_2.fq.gz
+PASS	Per sequence quality scores	Tco-719_2.fq.gz
+FAIL	Per base sequence content	Tco-719_2.fq.gz
+PASS	Per sequence GC content	Tco-719_2.fq.gz
+PASS	Per base N content	Tco-719_2.fq.gz
+PASS	Sequence Length Distribution	Tco-719_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-719_2.fq.gz
+WARN	Overrepresented sequences	Tco-719_2.fq.gz
+PASS	Adapter Content	Tco-719_2.fq.gz
+PASS	Basic Statistics	Tco-752_1.fq.gz
+PASS	Per base sequence quality	Tco-752_1.fq.gz
+PASS	Per sequence quality scores	Tco-752_1.fq.gz
+FAIL	Per base sequence content	Tco-752_1.fq.gz
+PASS	Per sequence GC content	Tco-752_1.fq.gz
+PASS	Per base N content	Tco-752_1.fq.gz
+PASS	Sequence Length Distribution	Tco-752_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-752_1.fq.gz
+PASS	Overrepresented sequences	Tco-752_1.fq.gz
+PASS	Adapter Content	Tco-752_1.fq.gz
+PASS	Basic Statistics	Tco-752_2.fq.gz
+PASS	Per base sequence quality	Tco-752_2.fq.gz
+PASS	Per sequence quality scores	Tco-752_2.fq.gz
+FAIL	Per base sequence content	Tco-752_2.fq.gz
+PASS	Per sequence GC content	Tco-752_2.fq.gz
+PASS	Per base N content	Tco-752_2.fq.gz
+PASS	Sequence Length Distribution	Tco-752_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-752_2.fq.gz
+PASS	Overrepresented sequences	Tco-752_2.fq.gz
+PASS	Adapter Content	Tco-752_2.fq.gz
+PASS	Basic Statistics	Tco-754_1.fq.gz
+PASS	Per base sequence quality	Tco-754_1.fq.gz
+PASS	Per sequence quality scores	Tco-754_1.fq.gz
+FAIL	Per base sequence content	Tco-754_1.fq.gz
+PASS	Per sequence GC content	Tco-754_1.fq.gz
+PASS	Per base N content	Tco-754_1.fq.gz
+PASS	Sequence Length Distribution	Tco-754_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-754_1.fq.gz
+PASS	Overrepresented sequences	Tco-754_1.fq.gz
+PASS	Adapter Content	Tco-754_1.fq.gz
+PASS	Basic Statistics	Tco-754_2.fq.gz
+PASS	Per base sequence quality	Tco-754_2.fq.gz
+PASS	Per sequence quality scores	Tco-754_2.fq.gz
+FAIL	Per base sequence content	Tco-754_2.fq.gz
+PASS	Per sequence GC content	Tco-754_2.fq.gz
+PASS	Per base N content	Tco-754_2.fq.gz
+PASS	Sequence Length Distribution	Tco-754_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-754_2.fq.gz
+PASS	Overrepresented sequences	Tco-754_2.fq.gz
+PASS	Adapter Content	Tco-754_2.fq.gz
+PASS	Basic Statistics	Tco-757_1.fq.gz
+PASS	Per base sequence quality	Tco-757_1.fq.gz
+PASS	Per sequence quality scores	Tco-757_1.fq.gz
+FAIL	Per base sequence content	Tco-757_1.fq.gz
+PASS	Per sequence GC content	Tco-757_1.fq.gz
+PASS	Per base N content	Tco-757_1.fq.gz
+PASS	Sequence Length Distribution	Tco-757_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-757_1.fq.gz
+PASS	Overrepresented sequences	Tco-757_1.fq.gz
+PASS	Adapter Content	Tco-757_1.fq.gz
+PASS	Basic Statistics	Tco-757_2.fq.gz
+PASS	Per base sequence quality	Tco-757_2.fq.gz
+PASS	Per sequence quality scores	Tco-757_2.fq.gz
+FAIL	Per base sequence content	Tco-757_2.fq.gz
+PASS	Per sequence GC content	Tco-757_2.fq.gz
+PASS	Per base N content	Tco-757_2.fq.gz
+PASS	Sequence Length Distribution	Tco-757_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-757_2.fq.gz
+PASS	Overrepresented sequences	Tco-757_2.fq.gz
+PASS	Adapter Content	Tco-757_2.fq.gz
+PASS	Basic Statistics	Tco-76_1.fq.gz
+PASS	Per base sequence quality	Tco-76_1.fq.gz
+PASS	Per sequence quality scores	Tco-76_1.fq.gz
+FAIL	Per base sequence content	Tco-76_1.fq.gz
+PASS	Per sequence GC content	Tco-76_1.fq.gz
+PASS	Per base N content	Tco-76_1.fq.gz
+PASS	Sequence Length Distribution	Tco-76_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-76_1.fq.gz
+WARN	Overrepresented sequences	Tco-76_1.fq.gz
+PASS	Adapter Content	Tco-76_1.fq.gz
+PASS	Basic Statistics	Tco-76_2.fq.gz
+PASS	Per base sequence quality	Tco-76_2.fq.gz
+PASS	Per sequence quality scores	Tco-76_2.fq.gz
+FAIL	Per base sequence content	Tco-76_2.fq.gz
+PASS	Per sequence GC content	Tco-76_2.fq.gz
+PASS	Per base N content	Tco-76_2.fq.gz
+PASS	Sequence Length Distribution	Tco-76_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-76_2.fq.gz
+WARN	Overrepresented sequences	Tco-76_2.fq.gz
+PASS	Adapter Content	Tco-76_2.fq.gz
+PASS	Basic Statistics	Tco-851_1.fq.gz
+PASS	Per base sequence quality	Tco-851_1.fq.gz
+PASS	Per sequence quality scores	Tco-851_1.fq.gz
+FAIL	Per base sequence content	Tco-851_1.fq.gz
+PASS	Per sequence GC content	Tco-851_1.fq.gz
+PASS	Per base N content	Tco-851_1.fq.gz
+PASS	Sequence Length Distribution	Tco-851_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-851_1.fq.gz
+WARN	Overrepresented sequences	Tco-851_1.fq.gz
+PASS	Adapter Content	Tco-851_1.fq.gz
+PASS	Basic Statistics	Tco-851_2.fq.gz
+PASS	Per base sequence quality	Tco-851_2.fq.gz
+PASS	Per sequence quality scores	Tco-851_2.fq.gz
+FAIL	Per base sequence content	Tco-851_2.fq.gz
+PASS	Per sequence GC content	Tco-851_2.fq.gz
+PASS	Per base N content	Tco-851_2.fq.gz
+PASS	Sequence Length Distribution	Tco-851_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-851_2.fq.gz
+PASS	Overrepresented sequences	Tco-851_2.fq.gz
+PASS	Adapter Content	Tco-851_2.fq.gz
+PASS	Basic Statistics	Tco-859_1.fq.gz
+PASS	Per base sequence quality	Tco-859_1.fq.gz
+PASS	Per sequence quality scores	Tco-859_1.fq.gz
+FAIL	Per base sequence content	Tco-859_1.fq.gz
+PASS	Per sequence GC content	Tco-859_1.fq.gz
+PASS	Per base N content	Tco-859_1.fq.gz
+PASS	Sequence Length Distribution	Tco-859_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-859_1.fq.gz
+WARN	Overrepresented sequences	Tco-859_1.fq.gz
+PASS	Adapter Content	Tco-859_1.fq.gz
+PASS	Basic Statistics	Tco-859_2.fq.gz
+PASS	Per base sequence quality	Tco-859_2.fq.gz
+PASS	Per sequence quality scores	Tco-859_2.fq.gz
+FAIL	Per base sequence content	Tco-859_2.fq.gz
+PASS	Per sequence GC content	Tco-859_2.fq.gz
+PASS	Per base N content	Tco-859_2.fq.gz
+PASS	Sequence Length Distribution	Tco-859_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-859_2.fq.gz
+WARN	Overrepresented sequences	Tco-859_2.fq.gz
+PASS	Adapter Content	Tco-859_2.fq.gz
+PASS	Basic Statistics	Tco-86_1.fq.gz
+PASS	Per base sequence quality	Tco-86_1.fq.gz
+PASS	Per sequence quality scores	Tco-86_1.fq.gz
+FAIL	Per base sequence content	Tco-86_1.fq.gz
+PASS	Per sequence GC content	Tco-86_1.fq.gz
+PASS	Per base N content	Tco-86_1.fq.gz
+PASS	Sequence Length Distribution	Tco-86_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-86_1.fq.gz
+WARN	Overrepresented sequences	Tco-86_1.fq.gz
+PASS	Adapter Content	Tco-86_1.fq.gz
+PASS	Basic Statistics	Tco-86_2.fq.gz
+PASS	Per base sequence quality	Tco-86_2.fq.gz
+PASS	Per sequence quality scores	Tco-86_2.fq.gz
+FAIL	Per base sequence content	Tco-86_2.fq.gz
+PASS	Per sequence GC content	Tco-86_2.fq.gz
+PASS	Per base N content	Tco-86_2.fq.gz
+PASS	Sequence Length Distribution	Tco-86_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-86_2.fq.gz
+WARN	Overrepresented sequences	Tco-86_2.fq.gz
+PASS	Adapter Content	Tco-86_2.fq.gz
+PASS	Basic Statistics	Tco-878_1.fq.gz
+PASS	Per base sequence quality	Tco-878_1.fq.gz
+PASS	Per sequence quality scores	Tco-878_1.fq.gz
+FAIL	Per base sequence content	Tco-878_1.fq.gz
+PASS	Per sequence GC content	Tco-878_1.fq.gz
+PASS	Per base N content	Tco-878_1.fq.gz
+PASS	Sequence Length Distribution	Tco-878_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-878_1.fq.gz
+WARN	Overrepresented sequences	Tco-878_1.fq.gz
+PASS	Adapter Content	Tco-878_1.fq.gz
+PASS	Basic Statistics	Tco-878_2.fq.gz
+PASS	Per base sequence quality	Tco-878_2.fq.gz
+PASS	Per sequence quality scores	Tco-878_2.fq.gz
+FAIL	Per base sequence content	Tco-878_2.fq.gz
+PASS	Per sequence GC content	Tco-878_2.fq.gz
+PASS	Per base N content	Tco-878_2.fq.gz
+PASS	Sequence Length Distribution	Tco-878_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-878_2.fq.gz
+WARN	Overrepresented sequences	Tco-878_2.fq.gz
+PASS	Adapter Content	Tco-878_2.fq.gz
+PASS	Basic Statistics	Tco-892_1.fq.gz
+PASS	Per base sequence quality	Tco-892_1.fq.gz
+PASS	Per sequence quality scores	Tco-892_1.fq.gz
+FAIL	Per base sequence content	Tco-892_1.fq.gz
+PASS	Per sequence GC content	Tco-892_1.fq.gz
+PASS	Per base N content	Tco-892_1.fq.gz
+PASS	Sequence Length Distribution	Tco-892_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-892_1.fq.gz
+WARN	Overrepresented sequences	Tco-892_1.fq.gz
+PASS	Adapter Content	Tco-892_1.fq.gz
+PASS	Basic Statistics	Tco-892_2.fq.gz
+PASS	Per base sequence quality	Tco-892_2.fq.gz
+PASS	Per sequence quality scores	Tco-892_2.fq.gz
+FAIL	Per base sequence content	Tco-892_2.fq.gz
+PASS	Per sequence GC content	Tco-892_2.fq.gz
+PASS	Per base N content	Tco-892_2.fq.gz
+PASS	Sequence Length Distribution	Tco-892_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-892_2.fq.gz
+WARN	Overrepresented sequences	Tco-892_2.fq.gz
+PASS	Adapter Content	Tco-892_2.fq.gz
+PASS	Basic Statistics	Tco-907_1.fq.gz
+PASS	Per base sequence quality	Tco-907_1.fq.gz
+PASS	Per sequence quality scores	Tco-907_1.fq.gz
+FAIL	Per base sequence content	Tco-907_1.fq.gz
+PASS	Per sequence GC content	Tco-907_1.fq.gz
+PASS	Per base N content	Tco-907_1.fq.gz
+PASS	Sequence Length Distribution	Tco-907_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-907_1.fq.gz
+PASS	Overrepresented sequences	Tco-907_1.fq.gz
+PASS	Adapter Content	Tco-907_1.fq.gz
+PASS	Basic Statistics	Tco-907_2.fq.gz
+PASS	Per base sequence quality	Tco-907_2.fq.gz
+PASS	Per sequence quality scores	Tco-907_2.fq.gz
+FAIL	Per base sequence content	Tco-907_2.fq.gz
+PASS	Per sequence GC content	Tco-907_2.fq.gz
+PASS	Per base N content	Tco-907_2.fq.gz
+PASS	Sequence Length Distribution	Tco-907_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-907_2.fq.gz
+PASS	Overrepresented sequences	Tco-907_2.fq.gz
+PASS	Adapter Content	Tco-907_2.fq.gz
+PASS	Basic Statistics	Tco-935_1.fq.gz
+PASS	Per base sequence quality	Tco-935_1.fq.gz
+PASS	Per sequence quality scores	Tco-935_1.fq.gz
+FAIL	Per base sequence content	Tco-935_1.fq.gz
+PASS	Per sequence GC content	Tco-935_1.fq.gz
+PASS	Per base N content	Tco-935_1.fq.gz
+PASS	Sequence Length Distribution	Tco-935_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-935_1.fq.gz
+PASS	Overrepresented sequences	Tco-935_1.fq.gz
+PASS	Adapter Content	Tco-935_1.fq.gz
+PASS	Basic Statistics	Tco-935_2.fq.gz
+PASS	Per base sequence quality	Tco-935_2.fq.gz
+PASS	Per sequence quality scores	Tco-935_2.fq.gz
+FAIL	Per base sequence content	Tco-935_2.fq.gz
+PASS	Per sequence GC content	Tco-935_2.fq.gz
+PASS	Per base N content	Tco-935_2.fq.gz
+PASS	Sequence Length Distribution	Tco-935_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-935_2.fq.gz
+WARN	Overrepresented sequences	Tco-935_2.fq.gz
+PASS	Adapter Content	Tco-935_2.fq.gz
+PASS	Basic Statistics	Tco-949_1.fq.gz
+PASS	Per base sequence quality	Tco-949_1.fq.gz
+PASS	Per sequence quality scores	Tco-949_1.fq.gz
+FAIL	Per base sequence content	Tco-949_1.fq.gz
+PASS	Per sequence GC content	Tco-949_1.fq.gz
+PASS	Per base N content	Tco-949_1.fq.gz
+PASS	Sequence Length Distribution	Tco-949_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-949_1.fq.gz
+PASS	Overrepresented sequences	Tco-949_1.fq.gz
+PASS	Adapter Content	Tco-949_1.fq.gz
+PASS	Basic Statistics	Tco-949_2.fq.gz
+PASS	Per base sequence quality	Tco-949_2.fq.gz
+PASS	Per sequence quality scores	Tco-949_2.fq.gz
+FAIL	Per base sequence content	Tco-949_2.fq.gz
+PASS	Per sequence GC content	Tco-949_2.fq.gz
+PASS	Per base N content	Tco-949_2.fq.gz
+PASS	Sequence Length Distribution	Tco-949_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-949_2.fq.gz
+PASS	Overrepresented sequences	Tco-949_2.fq.gz
+PASS	Adapter Content	Tco-949_2.fq.gz
+PASS	Basic Statistics	Tco-960_1.fq.gz
+PASS	Per base sequence quality	Tco-960_1.fq.gz
+PASS	Per sequence quality scores	Tco-960_1.fq.gz
+FAIL	Per base sequence content	Tco-960_1.fq.gz
+PASS	Per sequence GC content	Tco-960_1.fq.gz
+PASS	Per base N content	Tco-960_1.fq.gz
+PASS	Sequence Length Distribution	Tco-960_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-960_1.fq.gz
+PASS	Overrepresented sequences	Tco-960_1.fq.gz
+PASS	Adapter Content	Tco-960_1.fq.gz
+PASS	Basic Statistics	Tco-960_2.fq.gz
+PASS	Per base sequence quality	Tco-960_2.fq.gz
+PASS	Per sequence quality scores	Tco-960_2.fq.gz
+FAIL	Per base sequence content	Tco-960_2.fq.gz
+PASS	Per sequence GC content	Tco-960_2.fq.gz
+PASS	Per base N content	Tco-960_2.fq.gz
+PASS	Sequence Length Distribution	Tco-960_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-960_2.fq.gz
+WARN	Overrepresented sequences	Tco-960_2.fq.gz
+PASS	Adapter Content	Tco-960_2.fq.gz
+PASS	Basic Statistics	Tco-964_1.fq.gz
+PASS	Per base sequence quality	Tco-964_1.fq.gz
+PASS	Per sequence quality scores	Tco-964_1.fq.gz
+FAIL	Per base sequence content	Tco-964_1.fq.gz
+PASS	Per sequence GC content	Tco-964_1.fq.gz
+PASS	Per base N content	Tco-964_1.fq.gz
+PASS	Sequence Length Distribution	Tco-964_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-964_1.fq.gz
+PASS	Overrepresented sequences	Tco-964_1.fq.gz
+PASS	Adapter Content	Tco-964_1.fq.gz
+PASS	Basic Statistics	Tco-964_2.fq.gz
+PASS	Per base sequence quality	Tco-964_2.fq.gz
+PASS	Per sequence quality scores	Tco-964_2.fq.gz
+FAIL	Per base sequence content	Tco-964_2.fq.gz
+PASS	Per sequence GC content	Tco-964_2.fq.gz
+PASS	Per base N content	Tco-964_2.fq.gz
+PASS	Sequence Length Distribution	Tco-964_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-964_2.fq.gz
+PASS	Overrepresented sequences	Tco-964_2.fq.gz
+PASS	Adapter Content	Tco-964_2.fq.gz
+PASS	Basic Statistics	Tco-999_1.fq.gz
+PASS	Per base sequence quality	Tco-999_1.fq.gz
+PASS	Per sequence quality scores	Tco-999_1.fq.gz
+FAIL	Per base sequence content	Tco-999_1.fq.gz
+PASS	Per sequence GC content	Tco-999_1.fq.gz
+PASS	Per base N content	Tco-999_1.fq.gz
+PASS	Sequence Length Distribution	Tco-999_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-999_1.fq.gz
+WARN	Overrepresented sequences	Tco-999_1.fq.gz
+PASS	Adapter Content	Tco-999_1.fq.gz
+PASS	Basic Statistics	Tco-999_2.fq.gz
+PASS	Per base sequence quality	Tco-999_2.fq.gz
+PASS	Per sequence quality scores	Tco-999_2.fq.gz
+FAIL	Per base sequence content	Tco-999_2.fq.gz
+PASS	Per sequence GC content	Tco-999_2.fq.gz
+PASS	Per base N content	Tco-999_2.fq.gz
+PASS	Sequence Length Distribution	Tco-999_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-999_2.fq.gz
+WARN	Overrepresented sequences	Tco-999_2.fq.gz
+PASS	Adapter Content	Tco-999_2.fq.gz

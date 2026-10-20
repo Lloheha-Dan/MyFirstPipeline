@@ -1,0 +1,192 @@
+Filename	Tco-106_1.fq.gz
+Total Sequences	100000
+Filename	Tco-106_2.fq.gz
+Total Sequences	100000
+Filename	Tco-122_1.fq.gz
+Total Sequences	100000
+Filename	Tco-122_2.fq.gz
+Total Sequences	100000
+Filename	Tco-159_1.fq.gz
+Total Sequences	100000
+Filename	Tco-159_2.fq.gz
+Total Sequences	100000
+Filename	Tco-160_1.fq.gz
+Total Sequences	100000
+Filename	Tco-160_2.fq.gz
+Total Sequences	100000
+Filename	Tco-17_1.fq.gz
+Total Sequences	100000
+Filename	Tco-17_2.fq.gz
+Total Sequences	100000
+Filename	Tco-182_1.fq.gz
+Total Sequences	100000
+Filename	Tco-182_2.fq.gz
+Total Sequences	100000
+Filename	Tco-21_1.fq.gz
+Total Sequences	100000
+Filename	Tco-21_2.fq.gz
+Total Sequences	100000
+Filename	Tco-229_1.fq.gz
+Total Sequences	100000
+Filename	Tco-229_2.fq.gz
+Total Sequences	100000
+Filename	Tco-230_1.fq.gz
+Total Sequences	100000
+Filename	Tco-230_2.fq.gz
+Total Sequences	100000
+Filename	Tco-28_1.fq.gz
+Total Sequences	100000
+Filename	Tco-28_2.fq.gz
+Total Sequences	100000
+Filename	Tco-290_1.fq.gz
+Total Sequences	100000
+Filename	Tco-290_2.fq.gz
+Total Sequences	100000
+Filename	Tco-362_1.fq.gz
+Total Sequences	100000
+Filename	Tco-362_2.fq.gz
+Total Sequences	100000
+Filename	Tco-392_1.fq.gz
+Total Sequences	100000
+Filename	Tco-392_2.fq.gz
+Total Sequences	100000
+Filename	Tco-397_1.fq.gz
+Total Sequences	100000
+Filename	Tco-397_2.fq.gz
+Total Sequences	100000
+Filename	Tco-398_1.fq.gz
+Total Sequences	100000
+Filename	Tco-398_2.fq.gz
+Total Sequences	100000
+Filename	Tco-427_1.fq.gz
+Total Sequences	100000
+Filename	Tco-427_2.fq.gz
+Total Sequences	100000
+Filename	Tco-444_1.fq.gz
+Total Sequences	100000
+Filename	Tco-444_2.fq.gz
+Total Sequences	100000
+Filename	Tco-467_1.fq.gz
+Total Sequences	100000
+Filename	Tco-467_2.fq.gz
+Total Sequences	100000
+Filename	Tco-480_1.fq.gz
+Total Sequences	100000
+Filename	Tco-480_2.fq.gz
+Total Sequences	100000
+Filename	Tco-483_1.fq.gz
+Total Sequences	100000
+Filename	Tco-483_2.fq.gz
+Total Sequences	100000
+Filename	Tco-486_1.fq.gz
+Total Sequences	100000
+Filename	Tco-486_2.fq.gz
+Total Sequences	100000
+Filename	Tco-503_1.fq.gz
+Total Sequences	100000
+Filename	Tco-503_2.fq.gz
+Total Sequences	100000
+Filename	Tco-522_1.fq.gz
+Total Sequences	100000
+Filename	Tco-522_2.fq.gz
+Total Sequences	100000
+Filename	Tco-549_1.fq.gz
+Total Sequences	100000
+Filename	Tco-549_2.fq.gz
+Total Sequences	100000
+Filename	Tco-580_1.fq.gz
+Total Sequences	100000
+Filename	Tco-580_2.fq.gz
+Total Sequences	100000
+Filename	Tco-582_1.fq.gz
+Total Sequences	100000
+Filename	Tco-582_2.fq.gz
+Total Sequences	100000
+Filename	Tco-596_1.fq.gz
+Total Sequences	100000
+Filename	Tco-596_2.fq.gz
+Total Sequences	100000
+Filename	Tco-613_1.fq.gz
+Total Sequences	100000
+Filename	Tco-613_2.fq.gz
+Total Sequences	100000
+Filename	Tco-622_1.fq.gz
+Total Sequences	100000
+Filename	Tco-622_2.fq.gz
+Total Sequences	100000
+Filename	Tco-633_1.fq.gz
+Total Sequences	100000
+Filename	Tco-633_2.fq.gz
+Total Sequences	100000
+Filename	Tco-674_1.fq.gz
+Total Sequences	100000
+Filename	Tco-674_2.fq.gz
+Total Sequences	100000
+Filename	Tco-702_1.fq.gz
+Total Sequences	100000
+Filename	Tco-702_2.fq.gz
+Total Sequences	100000
+Filename	Tco-719_1.fq.gz
+Total Sequences	100000
+Filename	Tco-719_2.fq.gz
+Total Sequences	100000
+Filename	Tco-752_1.fq.gz
+Total Sequences	100000
+Filename	Tco-752_2.fq.gz
+Total Sequences	100000
+Filename	Tco-754_1.fq.gz
+Total Sequences	100000
+Filename	Tco-754_2.fq.gz
+Total Sequences	100000
+Filename	Tco-757_1.fq.gz
+Total Sequences	100000
+Filename	Tco-757_2.fq.gz
+Total Sequences	100000
+Filename	Tco-76_1.fq.gz
+Total Sequences	100000
+Filename	Tco-76_2.fq.gz
+Total Sequences	100000
+Filename	Tco-851_1.fq.gz
+Total Sequences	100000
+Filename	Tco-851_2.fq.gz
+Total Sequences	100000
+Filename	Tco-859_1.fq.gz
+Total Sequences	100000
+Filename	Tco-859_2.fq.gz
+Total Sequences	100000
+Filename	Tco-86_1.fq.gz
+Total Sequences	100000
+Filename	Tco-86_2.fq.gz
+Total Sequences	100000
+Filename	Tco-878_1.fq.gz
+Total Sequences	100000
+Filename	Tco-878_2.fq.gz
+Total Sequences	100000
+Filename	Tco-892_1.fq.gz
+Total Sequences	100000
+Filename	Tco-892_2.fq.gz
+Total Sequences	100000
+Filename	Tco-907_1.fq.gz
+Total Sequences	100000
+Filename	Tco-907_2.fq.gz
+Total Sequences	100000
+Filename	Tco-935_1.fq.gz
+Total Sequences	100000
+Filename	Tco-935_2.fq.gz
+Total Sequences	100000
+Filename	Tco-949_1.fq.gz
+Total Sequences	100000
+Filename	Tco-949_2.fq.gz
+Total Sequences	100000
+Filename	Tco-960_1.fq.gz
+Total Sequences	100000
+Filename	Tco-960_2.fq.gz
+Total Sequences	100000
+Filename	Tco-964_1.fq.gz
+Total Sequences	100000
+Filename	Tco-964_2.fq.gz
+Total Sequences	100000
+Filename	Tco-999_1.fq.gz
+Total Sequences	100000
+Filename	Tco-999_2.fq.gz
+Total Sequences	100000
