@@ -1,0 +1,10 @@
+PASS	Basic Statistics	Tco-754_1.fq.gz
+PASS	Per base sequence quality	Tco-754_1.fq.gz
+PASS	Per sequence quality scores	Tco-754_1.fq.gz
+FAIL	Per base sequence content	Tco-754_1.fq.gz
+PASS	Per sequence GC content	Tco-754_1.fq.gz
+PASS	Per base N content	Tco-754_1.fq.gz
+PASS	Sequence Length Distribution	Tco-754_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-754_1.fq.gz
+PASS	Overrepresented sequences	Tco-754_1.fq.gz
+PASS	Adapter Content	Tco-754_1.fq.gz

@@ -1,0 +1,114 @@
+#!/bin/bash
+
+
+#assign where to get data from to a variable 
+raw_input_path="/localdisk/data/BPSM/MyFirstPipeline/fastq"
+
+
+
+ 
+#aassign where i want qc reports to go to a variable  
+qc_report_path="$(pwd)/qc_report"
+
+
+
+
+# tell bash what to do if there's a faliure to create the report 
+if ! mkdir -p "${qc_report_path}"
+then 
+    echo "report creation failed"
+    exit 1
+fi    
+
+
+
+
+#tell the programme where to start the count and then find FASTQ files
+file_count=0
+for file in "${raw_input_path}"/*.fq.gz
+#pass the reults to check if path refers to regular file and exit script if not 
+do
+	if [ ! -f "${file}" ]
+	then
+		echo "file faulty"
+		exit 1
+	fi
+	#check if files are gzip and exit if not
+	if ! gzip -t "${file}"
+	then 
+		echo "not a gzip file"
+		exit 1
+	fi
+	#add 1 after each successful count and continue 	
+        file_count="$((${file_count} + 1))"
+done
+echo "found ${file_count} gzip FASTQ files"
+
+
+
+
+#so far I looked at file integraty, now lets look at the content
+if ! fastqc --extract "${raw_input_path}"/*.fq.gz --outdir "${qc_report_path}"
+then
+	echo "quality check failed"
+	exit 1
+fi
+echo "FastQC done successfully and reports been sent to ${qc_report_path}"
+
+
+
+
+#save the reposts 
+cat "${qc_report_path}"/*_fastqc/summary.txt > all_summary.txt
+cat "${qc_report_path}"/*_fastqc/fastqc_data.txt > all_fastqc_data.txt
+
+
+
+
+#count how many reads
+grep -E '^[[:space:]]*(Filename|Total Sequence)' all_fastqc_data.txt > sequence_numbers.txt
+#add the counts using bash 
+total=0
+while IFS=$'\t' read filename count
+do 
+	if [ "${filename}" = "Total Sequences" ]
+	then 
+		total=$(( total + count ))
+	fi
+done < all_fastqc_data.txt
+echo "total reads $total}"
+
+
+#Summerise quality report
+grep -Ei '^[[:space:]]*(Filename|>>Per base sequence quality|>>Per sequence quality scores|>>Per base sequence content|>>Sequence Length Distribution|>>Sequence Duplication Levels|>>Overrepresented sequences|>>Adapter Content)' all_fastqc_data.txt > quality_summery.txt
+# Count module statuses.
+pass=$(grep -ci '[[:space:]]pass$' quality_summery.txt)
+warn=$(grep -ci '[[:space:]]warn$' quality_summery.txt)
+fail=$(grep -ci '[[:space:]]fail$' quality_summery.txt)
+
+# Display the counts.
+echo "PASS: ${pass}"
+echo "WARN: ${warn}"
+echo "FAIL: ${fail}"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

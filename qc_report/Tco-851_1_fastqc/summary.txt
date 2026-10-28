@@ -1,0 +1,10 @@
+PASS	Basic Statistics	Tco-851_1.fq.gz
+PASS	Per base sequence quality	Tco-851_1.fq.gz
+PASS	Per sequence quality scores	Tco-851_1.fq.gz
+FAIL	Per base sequence content	Tco-851_1.fq.gz
+PASS	Per sequence GC content	Tco-851_1.fq.gz
+PASS	Per base N content	Tco-851_1.fq.gz
+PASS	Sequence Length Distribution	Tco-851_1.fq.gz
+PASS	Sequence Duplication Levels	Tco-851_1.fq.gz
+WARN	Overrepresented sequences	Tco-851_1.fq.gz
+PASS	Adapter Content	Tco-851_1.fq.gz

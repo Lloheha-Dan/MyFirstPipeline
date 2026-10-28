@@ -1,0 +1,10 @@
+PASS	Basic Statistics	Tco-427_2.fq.gz
+PASS	Per base sequence quality	Tco-427_2.fq.gz
+PASS	Per sequence quality scores	Tco-427_2.fq.gz
+FAIL	Per base sequence content	Tco-427_2.fq.gz
+PASS	Per sequence GC content	Tco-427_2.fq.gz
+PASS	Per base N content	Tco-427_2.fq.gz
+PASS	Sequence Length Distribution	Tco-427_2.fq.gz
+PASS	Sequence Duplication Levels	Tco-427_2.fq.gz
+WARN	Overrepresented sequences	Tco-427_2.fq.gz
+PASS	Adapter Content	Tco-427_2.fq.gz
